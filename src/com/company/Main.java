@@ -11,7 +11,7 @@ public class Main {
         Sun son=new Sun();
         son.name="Ali";
         son.address="2323";
-        son.phone=2324444a;
+        son.phone="2324444a";
 
     }
 }
