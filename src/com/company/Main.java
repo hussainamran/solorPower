@@ -8,5 +8,10 @@ public class Main {
         solo.planets=1;
         solo.sun=3;
 
+        Sun son=new Sun();
+        son.name="Ali";
+        son.address="2323";
+        son.phone="2324444a";
+
     }
 }
