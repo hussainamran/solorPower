@@ -13,5 +13,9 @@ public class Main {
         son.address="2323";
         son.phone="2324444a";
 
+        planet2 pu=new planet2();
+        pu.size="123";
+        pu.color="green";
+
     }
 }
