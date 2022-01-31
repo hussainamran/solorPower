@@ -22,6 +22,10 @@ public class Main {
         mojo.size="123";
         mojo.color="blue";
 
+        moon1 montero=new moon1();
+        montero.color="blue";
+        montero.redius="232444";
+        montero.light="2413133";
 
     }
 }
