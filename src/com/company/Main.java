@@ -27,5 +27,12 @@ public class Main {
         montero.redius="232444";
         montero.light="2413133";
 
+
+
+        moon2  montero=new moon2();
+        montero.color="green";
+        montero.redius="fjdbfjeth";
+        montero.light="fdheurjeh";
+
     }
 }
